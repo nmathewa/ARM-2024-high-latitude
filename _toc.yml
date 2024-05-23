@@ -13,3 +13,9 @@ parts:
   - caption: Wind/CAO Index Correlation
     chapters:
       - file: notebooks/wind-rose.ipynb
+  - caption: Aerosol Changes
+    chapters:
+  -caption: Fluxes
+    chapters:
+      - file: notebooks/main_flux.ipynb
+      - file: notebooks/weak_strong_latent_heat.html
