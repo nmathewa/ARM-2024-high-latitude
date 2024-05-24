@@ -15,7 +15,7 @@ parts:
       - file: notebooks/wind-rose.ipynb
   - caption: Aerosol Conditions
     chapters:
-      - file: ARSCL_plot_test.ipynb
+      - file: anxccn.ipynb
   - caption: Fluxes
     chapters:
       - file: notebooks/main_flux.ipynb
