@@ -15,12 +15,12 @@ parts:
       - file: notebooks/wind-rose.ipynb
   - caption: Aerosol Conditions
     chapters:
-      - file: /anxccn.ipynb
-      - file: /oyelistic_armplots.ipynb
+      - file: ./anxccn.ipynb
+      - file: ./oyelistic_armplots.ipynb
   - caption: Fluxes
     chapters:
       - file: notebooks/main_flux.ipynb
-      - file: notebooks/weak_strong_latent_heat.html
+      - file: notebooks/weak_strong_latent_heat
   - caption: Models
     chapters:
       - file: notebooks/COMBLE-MIP_test.ipynb
