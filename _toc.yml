@@ -13,7 +13,13 @@ parts:
   - caption: Wind/CAO Index Correlation
     chapters:
       - file: notebooks/wind-rose.ipynb
+  - caption: Aerosol Conditions
+    chapters:
+      - file: ARSCL_plot_test.ipynb
   - caption: Fluxes
     chapters:
       - file: notebooks/main_flux.ipynb
       - file: notebooks/weak_strong_latent_heat.html
+  - caption: Models
+    chapters:
+      - file: notebooks/COMBLE-MIP_test.ipynb
