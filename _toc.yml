@@ -15,7 +15,8 @@ parts:
       - file: notebooks/wind-rose.ipynb
   - caption: Aerosol Conditions
     chapters:
-      - file: anxccn.ipynb
+      - file: /anxccn.ipynb
+      - file: /oyelistic_armplots.ipynb
   - caption: Fluxes
     chapters:
       - file: notebooks/main_flux.ipynb
