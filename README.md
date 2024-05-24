@@ -5,9 +5,7 @@
 
 This Project Pythia Cookbook covers an analysis of the ARM NSA (Alaska) and ANX (COMBLE campaign) sites.
 
-<p align="center">
-  <img src="BAMS_cover.jpg" width="300"/>
-</p>
+```{figure} BAMS_cover.jpg
 
 ## Group Members
 Hannah Seppala, Shivesh S., Jordan E., Nirmal Mathew , Ines Zabala, Oye Ideki
