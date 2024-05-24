@@ -6,7 +6,7 @@
 This Project Pythia Cookbook covers an analysis of the ARM NSA (Alaska) and ANX (COMBLE campaign) sites.
 
 <p align="center">
-  <img src="BAMS_cover.jpg" alt="thumbnail" width="300"/>
+  <img src="BAMS_cover.jpg" width="300"/>
 </p>
 
 ## Group Members
