@@ -24,6 +24,7 @@ authors:
     affiliation: University of Kansas
   - family-names: Ideki 
     given-names: Oye
+    orcid: https://orcid.org/0000-0003-1396-5525
     affiliation: Howard University
 title: "High Latitude ARM Site Comparison Cookbook"
 abstract: "The high latitude project for the ARM 2024 summer school comparing data from the North Slope of Alaska (NSA) site and the Cold Air Outbreak in the Marine Boundary Layer Experiment(COMBLE)."
